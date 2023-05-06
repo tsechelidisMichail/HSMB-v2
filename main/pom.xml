@@ -13,7 +13,19 @@
 
     <dependencies>
 
+        <dependency>
+            <groupId>tsechelidisMichail</groupId>
+            <artifactId>hsmb-v2.web_account</artifactId>
+            <version>${project.version}</version>
+            <scope>runtime</scope>
+        </dependency>
 
+        <dependency>
+            <groupId>tsechelidisMichail</groupId>
+            <artifactId>hsmb-v2.web_movie</artifactId>
+            <version>${project.version}</version>
+            <scope>runtime</scope>
+        </dependency>
     </dependencies>
 
     <build>
