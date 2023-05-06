@@ -11,5 +11,4 @@ public class MovieImp implements Movie {
     }
 
     private String name;
-
 }
